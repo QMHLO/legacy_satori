@@ -1,6 +1,6 @@
 # legacy_satori banner code
 
-> バナー 5
+> **バナー 5**
 
 ```
 <div id="satori__creative_container">
@@ -10,7 +10,7 @@
 
 ---
 
-> バナー 6
+> **バナー 6**
 
 ```
 <div id="satori__creative_container">
@@ -18,7 +18,7 @@
 </div>
 ```
 
-> バナー 10
+> **バナー 10**
 
 ```
 <div id="satori__creative_container">
@@ -28,7 +28,7 @@
 
 ---
 
-> バナー 11
+> **バナー 11**
 
 ```
 <div id="satori__creative_container">
@@ -38,7 +38,7 @@
 
 ---
 
-> バナー 12
+> **バナー 12**
 
 ```
 <div id="satori__creative_container">
@@ -48,7 +48,7 @@
 
 ---
 
-> バナー 13
+> **バナー 13**
 
 ```
 <div id="satori__creative_container">
@@ -58,7 +58,7 @@
 
 ---
 
-> バナー 15（レガシィクラウド 誘導）
+> **バナー 15（レガシィクラウド 誘導）**
 
 ```
 
@@ -69,7 +69,7 @@
 
 ---
 
-> バナー 17（料金ページ誘導）
+> **バナー 17（料金ページ誘導）**
 
 ```
 <div id="satori__creative_container">
@@ -79,7 +79,7 @@
 
 ---
 
-> バナー 18（相続の知識 贈与記事）
+> **バナー 18（相続の知識 贈与記事）**
 
 ```
 <div id=""satori__creative_container"">
