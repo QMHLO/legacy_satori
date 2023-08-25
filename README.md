@@ -110,3 +110,10 @@
 </div>
 ```
 ## ![Alt text](./satori%20bannar/19.png)
+
+バナー20（遺言診断キャンペーン）
+```
+<div id="satori__creative_container">
+    <script id="-_-satori_creative-_-" src="//delivery.satr.jp/js/creative_set.js" data-key="61e922fb99f1c504"></script>
+</div>
+```
