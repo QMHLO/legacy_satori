@@ -117,3 +117,8 @@
     <script id="-_-satori_creative-_-" src="//delivery.satr.jp/js/creative_set.js" data-key="61e922fb99f1c504"></script>
 </div>
 ```
+
+バナー23埋め込みコード
+```
+<script id="-_-satori_creative-_-" src="//delivery.satr.jp/js/creative_set.js" data-key="05fffdeb2add7b3f"></script>
+```
